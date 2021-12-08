@@ -11,7 +11,7 @@ role: Journalism & Mass Communication Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The George Washington University
-  url:www.courtneykushnir.wordpress.com
+  url: www.courtneykushnir.wordpress.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: Courtney Kushnir loves reading, writing, and video production. 
