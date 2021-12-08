@@ -18,9 +18,9 @@ bio: Courtney Kushnir loves reading, writing, and video production.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Film & Television Production 
+- Cooking & Baking 
+- Writing & Reporting 
 
 # Education to show in About widget
 education:
