@@ -6,15 +6,15 @@ title: Courtney Kushnir
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Journalism & Mass Communication Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The George Washington University
-  url: https://www.stanford.edu/
+  url:www.courtneykushnir.wordpress.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Courtney Kushnir loves reading, writing, and video production. 
 
 # Interests to show in About widget
 interests:
