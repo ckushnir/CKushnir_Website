@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Technical Production Intern
+    company: NBC News & MSNBC
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Washington, DC
+    date_start: '2021-09-20'
+    date_end: '2021-12-10'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Observing technical operations including camera, audio, engineering, and robotics
+        * Editing in Avid 
+        * Assisting floor and in-the-field crews with shooting responsibilities 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: News Director
+    company: WRGW
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Washington, DC
+    date_start: '2019-01-01'
+    date_end: 'current'
+    description: Overseeing news radio shows, assigning online stories, holding news workshops for interns and new members. 
 
 design:
   columns: '2'
