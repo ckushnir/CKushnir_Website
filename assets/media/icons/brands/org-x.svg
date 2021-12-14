@@ -1,15 +1,33 @@
-<svg width="56" height="56" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="58" width="58" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
-   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
-  </g>
- </g>
- <g>
-  <title>Layer 1</title>
-  <path stroke="#000" id="svg_2" d="m0.5,28l11.78572,-23.57143l31.42857,0l11.78571,23.57143l-11.78571,23.57143l-31.42857,0l-11.78572,-23.57143z" stroke-width="2" fill="#fff"/>
-  <text transform="matrix(1,0,0,1,0,0) " style="cursor: text;" font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Montserrat Black'" font-size="30" id="svg_1" y="38.75" x="16.57031" stroke-width="0" stroke="#000" fill="#000000">X</text>
- </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="225.000000pt" height="225.000000pt" viewBox="0 0 225.000000 225.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,225.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M1195 1645 c-16 -9 -40 -28 -52 -43 l-23 -27 0 38 0 37 -65 0 -65 0
+0 -200 0 -200 65 0 65 0 0 85 c0 52 6 99 14 120 17 41 68 75 112 75 37 0 44
+12 44 81 0 49 0 49 -32 49 -18 0 -46 -7 -63 -15z"/>
+<path d="M315 1610 c8 -23 37 -113 65 -201 l51 -160 56 3 57 3 35 102 c20 57
+38 103 41 103 3 0 20 -48 38 -105 l33 -105 57 0 58 0 58 183 c32 100 61 190
+64 200 4 16 -2 18 -58 15 l-63 -3 -30 -102 c-17 -56 -33 -101 -36 -98 -4 2
+-22 49 -41 104 l-35 101 -46 0 -47 0 -37 -105 c-21 -58 -39 -105 -41 -105 -1
+0 -17 47 -35 105 l-32 105 -63 0 -63 0 14 -40z"/>
+<path d="M794 1181 c-73 -18 -123 -66 -144 -138 -26 -87 17 -190 96 -229 51
+-25 150 -26 187 -1 27 17 27 17 27 -7 0 -13 -12 -38 -26 -55 -22 -26 -33 -31
+-71 -31 -30 0 -55 7 -74 21 -33 23 -58 18 -109 -20 l-24 -19 32 -30 c44 -41
+93 -57 178 -56 52 1 84 7 118 23 91 45 106 92 106 344 l0 187 -65 0 c-38 0
+-65 -4 -65 -10 0 -6 -11 -5 -27 4 -37 18 -101 26 -139 17z m139 -132 c36 -39
+36 -79 -2 -121 -50 -56 -137 -37 -161 36 -15 46 3 85 50 109 44 22 77 15 113
+-24z"/>
+<path d="M1150 1164 c0 -3 28 -93 62 -200 l62 -194 57 0 57 0 32 98 c18 53 36
+101 41 106 4 5 22 -39 40 -98 l32 -106 58 0 57 0 61 189 c34 104 61 194 61
+200 0 7 -23 11 -59 11 -48 0 -61 -3 -65 -17 -44 -153 -59 -195 -66 -182 -4 8
+-23 56 -40 107 l-33 92 -46 0 -46 0 -34 -98 c-19 -53 -37 -100 -40 -104 -4 -5
+-21 39 -39 97 l-32 105 -60 0 c-33 0 -60 -3 -60 -6z"/>
+</g>
 </svg>
