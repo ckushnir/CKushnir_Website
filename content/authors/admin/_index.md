@@ -11,10 +11,10 @@ role: Journalism & Mass Communication Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The George Washington University
-  url: www.courtneykushnir.wordpress.com
+  url: https://www.gwu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Courtney Kushnir loves reading, writing, and video production. 
+bio: Courtney Kushnir is a 21-year-old Journalism and Mass Communications student at GWU's School of Media and Public Affairs. Courtney loves reading, writing, cooking, and video production. 
 
 # Interests to show in About widget
 interests:
