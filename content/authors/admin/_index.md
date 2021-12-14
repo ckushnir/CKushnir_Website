@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Courtney Kushnir is a Media student at GW's School of Media and Public Affairs. A member of college radio since her Sophomore year, Courtney has been the Assistant Events Director for WRGW and currently is the News Director. Courtney is a former Technical Production intern at NBC News and is currently a Production intern at Long Story Short Media, a DC-based production and consulting company. Courtney has a strong journalism background, as well as technical production skills like camera work, audio mixing and engineering, and video editing in Adobe Premiere and Avid. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
