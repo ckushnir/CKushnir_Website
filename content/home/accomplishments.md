@@ -23,11 +23,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  date_start: "2021-09-17"
-  description: "Winner of Dc Student Film Festoval for "The Avenues""
+- date_start: "2021-09-17"
+  description: "DC Student Film Festival Winner"
   organization: DC Student Film Festival
-  title: Neural DC Student Film Festival Winner 2021
-  url: ""
+  title: Film Festival Winner
 
 design:
   columns: '2' 
