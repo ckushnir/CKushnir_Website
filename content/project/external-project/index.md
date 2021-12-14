@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://vimeo.com/378385443
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: still from "The Avenues" mini-documentary
   focal_point: Smart
 ---
