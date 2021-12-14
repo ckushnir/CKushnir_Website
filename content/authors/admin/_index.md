@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BA in Journalism& Mass Communications 
+  - course: BA in Journalism & Mass Communications 
     institution: The George Washington University
     year: 2022
   - course: High School Degree - Focus in Journalism & Broadcast

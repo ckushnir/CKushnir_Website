@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Washington, DC
     date_start: '2019-01-01'
-    date_end: 'current'
+    date_end: ''
     description: Overseeing news radio shows, assigning online stories, holding news workshops for interns and new members. 
 
 design:
