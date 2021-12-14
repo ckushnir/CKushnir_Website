@@ -24,7 +24,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.facebook.com/events/the-wharf/dc-student-film-fest/2889331891326803/
-  date_end: ""
   date_start: "2021-09-17"
   description: "Winner of Dc Student Film Festoval for "The Avenues""
   organization: DC Student Film Festival
