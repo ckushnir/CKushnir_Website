@@ -1,8 +1,8 @@
 ---
 title: "The Avenues - Mini Documentary"
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Short documentary about a GW-based band called The Avenues. Dc Student Film Festival 2021 Winner 
 tags:
-- Demo
+- documentary 
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
